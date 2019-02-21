@@ -1,3 +1,5 @@
+[![Build Status](https://clt-fd48b006-3955-4ccf-baca-9e26cf83aca1.visualstudio.com/Hello%20World%202/_apis/build/status/allenchau.Calc?branchName=master)](https://clt-fd48b006-3955-4ccf-baca-9e26cf83aca1.visualstudio.com/Hello%20World%202/_build/latest?definitionId=2&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
